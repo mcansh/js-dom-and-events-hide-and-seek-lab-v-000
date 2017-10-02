@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Practice finding and updating nodes in the DOM",
   "engines": {
-    "node": "6.x",
-    "npm": "3.x"
+    "node": "^6.0.x",
+    "npm": "^3.0.x"
   },
   "main": "index.js",
   "scripts": {
@@ -12,19 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/learn-co-curriculum/java-script-hide-and-seek.git"
+    "url":
+      "git+ssh://git@github.com/learn-co-curriculum/java-script-hide-and-seek.git"
   },
-  "keywords": [
-    "javascript",
-    "flatiron",
-    "learn"
-  ],
+  "keywords": ["javascript", "flatiron", "learn"],
   "author": "pletcher",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/learn-co-curriculum/java-script-hide-and-seek/issues"
+    "url":
+      "https://github.com/learn-co-curriculum/java-script-hide-and-seek/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/java-script-hide-and-seek#readme",
+  "homepage":
+    "https://github.com/learn-co-curriculum/java-script-hide-and-seek#readme",
   "devDependencies": {
     "babel-core": "^6.11.4",
     "babel-preset-es2015": "^6.9.0",
